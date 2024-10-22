@@ -1,0 +1,15 @@
+data/Allocation.csv
+data/combined_hourly_pnl_data_updated.csv
+data/combined_pnl_data.csv
+data/combined_position_data_updated.csv
+data/combined_position_data.csv
+data/EURUSD_hourly_with_changes.csv
+data/EURUSD_underlying_metrics.csv
+data/full.csv
+data/GBPUSD_hourly_with_changes.csv
+data/GBPUSD_underlying_metrics.csv
+data/open_trades_times_by_strategy.csv
+data/strategy_effectiveness.csv
+data/strategy_hourly_performance.csv
+data/top_10_hourly_M.csv
+data/validation.csv
