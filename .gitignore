@@ -14,3 +14,4 @@ data/strategy_hourly_performance.csv
 data/top_10_hourly_M.csv
 data/validation.csv
 data/Allocation_with_bottom_10.csv
+.tmp.driveupload/
